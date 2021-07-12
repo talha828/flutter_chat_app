@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86232072521",
+    "project_id": "group-chat-5b802",
+    "storage_bucket": "group-chat-5b802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86232072521:android:718f6d456ebf6fffad1a98",
+        "android_client_info": {
+          "package_name": "com.talhaiqbal.chat_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86232072521-32o61gk93c838okf1jjo3balil5gkrr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFYkGhYZTrsRQPneVB09YrDYQBttyPjaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86232072521-32o61gk93c838okf1jjo3balil5gkrr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
